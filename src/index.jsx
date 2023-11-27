@@ -7,7 +7,7 @@ import { PersistGate } from 'redux-persist/integration/react';
 import { App } from './components/global/App';
 import './index.scss';
 import { persistor, store } from './storage/store';
-
+//comment
 ReactDOM.createRoot(document.getElementById('root')).render(
     <React.StrictMode>
         <BrowserRouter basename="/fs-82-react-node-adoppp">
