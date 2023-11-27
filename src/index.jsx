@@ -10,7 +10,7 @@ import { persistor, store } from './storage/store';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
     <React.StrictMode>
-        <BrowserRouter basename="/react-app-team-4">
+        <BrowserRouter basename="/fs-82-react-node-adoppp">
             <Provider store={store}>
                 <PersistGate loading={null} persistor={persistor}>
                     <App />
