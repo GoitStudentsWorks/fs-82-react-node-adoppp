@@ -10,5 +10,5 @@ export default defineConfig({
       components: '/src/components',
     },
   },
-  base: '/react-app-team-4',
+  base: '/fs-82-react-node-adoppp',
 });
